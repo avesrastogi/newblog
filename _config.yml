@@ -1,0 +1,11 @@
+# basic options
+title: hail Matriarchy!
+author: Avni Rastogi
+email: your- avesrastogi@gmail.com
+description: An eye opener website
+twitter_username: aves__rastogi
+github_username:  avesrastogi
+
+# Build settings
+markdown: kramdown
+theme: minima
